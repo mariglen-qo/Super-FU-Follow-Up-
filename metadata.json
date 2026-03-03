@@ -1,0 +1,8 @@
+{
+  "name": "SuperFU App - The Super Follow-up App",
+  "description": "An intelligent contact management application that scans business cards, creates contact profiles, and uses AI to generate and schedule personalized follow-ups. Features include image analysis, AI-powered message creation, an integrated chatbot, and voice-to-text for notes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
